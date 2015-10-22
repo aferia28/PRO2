@@ -1,0 +1,4 @@
+mADRID::valencia ::1::5
+Madrid::Getafe::0::0
+Malaga::Espanyol::4::1
+Barça::Madrid::4::1
